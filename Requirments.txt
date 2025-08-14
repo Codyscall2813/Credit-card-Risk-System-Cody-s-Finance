@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+seaborn
+matplotlib
+scikit-learn
+joblib
+PyYAML
+XlsxWriter
+psutil

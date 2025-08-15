@@ -625,7 +625,7 @@ mypy src/
 ## 📜 Licensing & Legal
 
 ### Open Source License
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
+This project is licensed under the **Apache License** - see [LICENSE](LICENSE) for details.
 
 ### Commercial Usage
 For commercial deployments and enterprise support:
